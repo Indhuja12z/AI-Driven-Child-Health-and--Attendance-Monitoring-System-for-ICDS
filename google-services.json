@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712112701975",
+    "project_id": "little-steps-tracker-5a585",
+    "storage_bucket": "little-steps-tracker-5a585.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712112701975:android:50e5fb5195fe2cdbd51252",
+        "android_client_info": {
+          "package_name": "com.example.little_steps_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEpo_FKt6PXaFbBDQw52y2OsC8HxCC3dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
